@@ -1,8 +1,6 @@
 
   # Cruise Management System UI
 
-  This is a code bundle for Cruise Management System UI. The original project is available at https://www.figma.com/design/mw5sZMFw844x5TyWQq0MRh/Cruise-Management-System-UI.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
