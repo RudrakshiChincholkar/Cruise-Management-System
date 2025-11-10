@@ -1,4 +1,4 @@
-import { authAPI } from './lib/api';
+
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { AuthProvider } from './contexts/AuthContext';
